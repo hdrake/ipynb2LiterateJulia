@@ -1,4 +1,5 @@
 name = "ipynb2LiterateJulia"
+uuid = "b70036ef-6e17-454e-9203-c943675d948e"
 
 [deps]
 Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
